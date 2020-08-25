@@ -1,6 +1,6 @@
 # ivras
 
-https://aenel.github.io/ivras/dist/index.html
+https://aenel.github.io/ivras_proj/dist/index.html
 
 ТЗ
 Список задач для реализации:
